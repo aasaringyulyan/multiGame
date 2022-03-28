@@ -1,6 +1,22 @@
 ## Multiplayer Game
 
-<img align="right" width="159px" src="https://github.com/aasaringyulyan/multiGame/blob/main/assets/gopher-game.jpeg">
+<img align="right" width="159px" src="">
+
+![Скриншот]( 'Скриншотес')
+
+## Запустить сервер
+
+```
+go run server/*go
+```
+
+## Запустить игру
+
+###### Не будет работать без запущенного сервера
+
+```
+go run main.go
+```
 
 ### Tools:
 [![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)](https://go.dev/doc/)
