@@ -2,8 +2,6 @@
 
 <img align="right" width="159px" src="https://github.com/aasaringyulyan/multiGame/blob/main/assets/gopher-game.jpg">
 
-![Скриншот](https://github.com/aasaringyulyan/multiGame/blob/main/assets/screenshot.png 'Скриншотес')
-
 ## Запустить сервер
 
 ```
@@ -17,6 +15,8 @@ go run server/*go
 ```
 go run main.go
 ```
+
+![Скриншот](https://github.com/aasaringyulyan/multiGame/blob/main/assets/screenshot.png 'Скриншотес')
 
 ### Tools:
 [![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)](https://go.dev/doc/)
