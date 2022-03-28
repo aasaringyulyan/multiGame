@@ -1,8 +1,8 @@
-## Multiplayer Game
+# Multiplayer Game
 
-<img align="right" width="159px" src="">
+<img align="right" width="159px" src="https://github.com/aasaringyulyan/multiGame/blob/main/assets/gopher-game.jpg">
 
-![Скриншот]( 'Скриншотес')
+![Скриншот](https://github.com/aasaringyulyan/multiGame/blob/main/assets/screenshot.png 'Скриншотес')
 
 ## Запустить сервер
 
