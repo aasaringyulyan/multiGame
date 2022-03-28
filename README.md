@@ -16,6 +16,8 @@ go run server/*go
 go run main.go
 ```
 
+##
+
 ![Скриншот](https://github.com/aasaringyulyan/multiGame/blob/main/assets/screenshot.png 'Скриншотес')
 
 ### Tools:
